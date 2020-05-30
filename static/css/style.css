@@ -192,7 +192,7 @@ progress::-moz-progress-value {
     margin-top:20px;
     margin-bottom: 10px;
     background-image:url('../image/简历照片.png');
-    background-size: 90%;
+    background-size: 100%;
     background-position:center;
     border-radius:50%;
     border:5px solid #607d8b;
